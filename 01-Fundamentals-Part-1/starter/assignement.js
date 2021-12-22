@@ -1,12 +1,19 @@
 const country = "india";
 const continent = "asia";
 let population = 3000000;
+population+=1; 
+// population = population + 1;
 let isIsland = true;
 let language;
+let description = "'portugal is in euorpe, and its 11 million people speaks portugese'";
+let averagepopulation = 3300000;
 language = "tamil" ;
-console.log(population);
+console.log(population / 2);
 console.log(country);
 console.log(continent);
 console.log(language);
 console.log(isIsland);
-
+let finland = 6000000; 
+console.log(population > finland);
+console.log(averagepopulation >  population); 
+console.log(description);
