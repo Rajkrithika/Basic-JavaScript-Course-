@@ -57,3 +57,9 @@ console.log(fruits.orange);
 console.log(fruits['fruitsName']);
 fruits.names = "karnan";
 console.log(fruits);
+
+
+
+let bills = [22,295,176,440,37,105,10,1100,86,52];
+let tips = [];
+let totals = [];

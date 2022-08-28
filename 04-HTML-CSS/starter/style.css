@@ -1,0 +1,18 @@
+body{
+  background-color: red;
+}
+h1{
+  font-size: 14;
+  font-family: Timesnewroman;
+background:yellow;
+}
+.second{
+  background:purple;
+}
+.first{
+  background:orange;
+}
+#course-image{
+  background:green;
+  font-size:14;
+}
